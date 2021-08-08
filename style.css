@@ -1,0 +1,36 @@
+ body {
+   font-family: 'Caveat', cursive;
+   background: white;
+ }
+
+ .header_div {
+   background: yellow;
+   color: white;
+ }
+
+ .header_div img {
+   width: 100px;
+ }
+
+ .main_div {
+   background: #fff068;
+   padding: 10px;
+   margin-top: 15px;
+   border: 3px solid white;
+ }
+
+ .main_div label {
+   background: white;
+   width: 310px;
+   padding: 10px;
+   margin-bottom: 0px;
+   box-shadow: 5px 5px 2px blue;
+ }
+
+ #camera,
+ #result {
+   border: 2px solid white;
+   width: 310px;
+   height: 300px;
+   box-shadow: 5px 5px 18px white;
+ }
